@@ -6,5 +6,6 @@ public class Main {
 		System.out.println("First main method>>>>....");
 		Sample s =new Sample();
 		s.display();
+		System.out.println("This is the first time changing the code");
 	}
 }
